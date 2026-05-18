@@ -30,3 +30,10 @@ The folders preserve the original course structure for study reference and learn
 ## Purpose
 
 The purpose of this repository is to document my learning process, organize studies, and track progress in front-end development.
+
+## Mini Projects
+
+Small projects created to practice JavaScript fundamentals and logic concepts.
+
+- Variables Practice Project - 05-cart-quantity
+- Boolean Logic Mini Project - 06-rock-paper-scissors
