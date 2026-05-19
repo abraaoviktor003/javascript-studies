@@ -36,4 +36,4 @@ The purpose of this repository is to document my learning process, organize stud
 Small projects created to practice JavaScript fundamentals and logic concepts.
 
 - Variables Practice Project - 05-cart-quantity
-- Boolean Logic Mini Project - 07-rock-paper-scissors
+- Functions Logic Mini Project - 07-rock-paper-scissors
